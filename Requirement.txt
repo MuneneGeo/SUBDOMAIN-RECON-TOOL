@@ -1,0 +1,2 @@
+requests
+# subfinder and httpx must be installed separately (Go tools)
